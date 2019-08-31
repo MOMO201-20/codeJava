@@ -1,0 +1,1 @@
+All data which is to be inserted in phonebook will be stored in text file .. reading and storing data takes place from same text file 
